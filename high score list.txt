@@ -1,0 +1,6 @@
+Moiz	30
+Shahzaib	36
+Huzaifa	18
+ahaz	40
+shaz	18
+shahzaib	42
